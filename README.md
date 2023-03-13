@@ -48,4 +48,3 @@ A correlation can be seen between barrel price rises and falls and turnover in t
 
 The phases of the moon do not seem to influence sales, while if they do, the phase that has coincided most with the rise in turnover is the new moon.
 
-Translated with www.DeepL.com/Translator (free version)
