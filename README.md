@@ -3,4 +3,5 @@
 
 - [@paulaalvarezsa](https://github.com/paulaalvarezsa)
 
-!(https://github.com/paulaalvarezsa/Social-analysis-of-penis-length-worldwide/blob/main/images/map_length_mixflaciderect_by%20method.png)
+
+![relationship_between_variables.png](https://github.com/paulaalvarezsa/Social-analysis-of-penis-length-worldwide/blob/main/images/relationship_between_variables.png)
